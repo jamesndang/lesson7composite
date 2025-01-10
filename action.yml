@@ -1,6 +1,5 @@
 name: composite
 description: calculator to test composite actions
-needs: sum-result
 inputs: 
   number1:
     required: true
